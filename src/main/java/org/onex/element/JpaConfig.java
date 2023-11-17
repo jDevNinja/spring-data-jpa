@@ -7,6 +7,7 @@ import org.springframework.jdbc.datasource.DriverManagerDataSource;
 import org.springframework.orm.jpa.LocalEntityManagerFactoryBean;
 
 @Configuration
+
 public class JpaConfig {
 
 	@Bean
